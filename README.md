@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<h1> Work in Progress.... </h1>
-soon...
-
 <!--
 **igabb/iGabb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
