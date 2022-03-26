@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: igabb/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: ${{ 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 }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
