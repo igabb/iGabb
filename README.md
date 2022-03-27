@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 -->
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-node_modules/.bin/ts-node src/index.ts igabb
