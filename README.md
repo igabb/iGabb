@@ -24,12 +24,7 @@
  <i>Esportes 🏋️‍♂️ </i> </br>
 
 ## Status
-<div align="left">
-  <a href="https://github.com/igabb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igabb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igabb&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## Redes Sociais 
 <img height="125" src="https://cdn.streamelements.com/uploads/f88fe373-91b4-4a2f-8e6c-383f48a4b02e.gif"/> [<img height="50" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-silva-profile/)
