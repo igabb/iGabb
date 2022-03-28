@@ -1,7 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=igabb" alt="igabb" /></p>
 
-![hello](https://user-images.githubusercontent.com/66043609/160465346-b1ea268a-0010-4163-a080-7a6b0282dc78.svg)
-
+![Hello](docs/hello.svg)
 
 # Olá! Eu sou o Gabriel
 - 🔭 Estou em constante desenvolvimento pessoal e aberto a novas oportunidades!
