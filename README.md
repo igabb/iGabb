@@ -3,15 +3,12 @@
 ![Hello](docs/hello.svg)
 
 # Olá! Eu sou o Gabriel
-- 🔭 Estou em constante desenvolvimento pessoal e aberto a novas oportunidades!
+- 🔭 Estou em constante desenvolvimento pessoal buscando a melhor versão de mim mesmo
 - 🌱 Atualmente estudando Análise e Desenvolvimento de Sistemas
+- 👨‍💻 aberto a novas oportunidades!
 
-## Conhecimento Técnico
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+## Status
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## Idiomas
  <i>Português｜Portuguese</i> </br>
@@ -22,10 +19,7 @@
  <i>Livros 📚</i> </br>
  <i>Video Games 🎮</i> </br>
  <i>Esportes 🏋️‍♂️ </i> </br>
-
-## Status
-![](./profile-3d-contrib/profile-green-animate.svg)
-
+ 
 ## Redes Sociais 
 <img height="125" src="https://cdn.streamelements.com/uploads/f88fe373-91b4-4a2f-8e6c-383f48a4b02e.gif"/> [<img height="50" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-silva-profile/)
 [<img height="50" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gabrielzius/)
