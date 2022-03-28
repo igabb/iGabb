@@ -4,7 +4,7 @@
 
 
 # Olá! Eu sou o Gabriel
-- 🔭 Sempre estou em constante desenvolvimento pessoal e aberto a novas oportunidades!
+- 🔭 Estou em constante desenvolvimento pessoal e aberto a novas oportunidades!
 - 🌱 Atualmente estudando Análise e Desenvolvimento de Sistemas
 
 ## Conhecimento Técnico
