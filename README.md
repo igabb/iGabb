@@ -2,10 +2,10 @@
 
 ![Hello](docs/hello.svg)
 
-# Olá! Eu sou o Gabriel
-- 🔭 Estou em constante desenvolvimento pessoal buscando a melhor versão de mim mesmo
-- 🌱 Atualmente estudando Análise e Desenvolvimento de Sistemas
-- 👨‍💻 aberto a novas oportunidades!
+# Gabriel Silva
+- 🦈 Estou em constante desenvolvimento pessoal buscando a melhor versão de mim mesmo.
+- 💻 Atualmente estudando Análise e Desenvolvimento de Sistemas. [UNIP Sorocaba]
+- 👨‍💻 Aberto a novas oportunidades e desafios.
 
 ## Status
 ![](./profile-3d-contrib/profile-green-animate.svg)
@@ -16,9 +16,9 @@
  <i>Inglês｜English </i> </br>
  
  ## Hobbies
- <i>Livros 📚</i> </br>
- <i>Video Games 🎮</i> </br>
- <i>Esportes 🏋️‍♂️ </i> </br>
+ <i>📚 Livros </i> </br>
+ <i>🎮 Video Games </i> </br>
+ <i>🏋️‍♂️ Esportes </i> </br>
  
 ## Redes Sociais 
 <img height="125" src="https://cdn.streamelements.com/uploads/f88fe373-91b4-4a2f-8e6c-383f48a4b02e.gif"/> [<img height="50" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-silva-profile/)
