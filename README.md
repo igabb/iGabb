@@ -5,6 +5,7 @@
 # Gabriel Silva
 - 🦈 Estou em constante desenvolvimento pessoal buscando a melhor versão de mim mesmo.
 - 💻 Atualmente estudando Análise e Desenvolvimento de Sistemas. [UNIP Sorocaba]
+- 💻 Estudando Linguagens de Programação. [Curso em Vídeo - Gustavo Guanabara]
 - 👨‍💻 Aberto a novas oportunidades e desafios.
 
 ## Status
