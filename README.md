@@ -8,7 +8,7 @@
 - 👨‍💻 Aberto a novas oportunidades e desafios.
 
 ## Status
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-green.svg)
 
 ## Idiomas
  <i>Português｜Portuguese</i> </br>
