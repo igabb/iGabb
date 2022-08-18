@@ -7,6 +7,7 @@
 - 💻 Atualmente estudando Análise e Desenvolvimento de Sistemas. [UNIP Sorocaba]
 - 💻 Estudando Linguagens de Programação. [Curso em Vídeo - Gustavo Guanabara]
 - 💻 Cursando a Pato Academy - Do Bug ao Bounty [Hacker Ético - Gabriel Pato]
+- 👨‍💻 Desenvolvedor Bubble - No Code.
 - 👨‍💻 Aberto a novas oportunidades e desafios.
 
 ## Status
