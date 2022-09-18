@@ -8,7 +8,7 @@
 - 💻 Estudando Linguagens de Programação. [Curso em Vídeo - Gustavo Guanabara]
 - 🔓 Cursando a Pato Academy - Do Bug ao Bounty [Hacker Ético - Gabriel Pato]
 - 👨‍💻 Desenvolvedor Bubble - No Code.
-- 👨‍💻 Aberto a novas oportunidades e desafios.
+- 👨‍💻 Estagiário em Analise de Tecnologia - Rocky Monks.
 
 ## Status
 ![](./profile-3d-contrib/profile-green-animate.svg)
