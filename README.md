@@ -6,8 +6,10 @@
 - 🦈 Estou em constante desenvolvimento pessoal buscando a melhor versão de mim mesmo.
 - 💻 Atualmente estudando Análise e Desenvolvimento de Sistemas. [UNIP Sorocaba]
 - 💻 Estudando Linguagens de Programação. [Curso em Vídeo - Gustavo Guanabara]
-- 🔓 Cursando a Pato Academy - Do Bug ao Bounty [Hacker Ético - Gabriel Pato]
-- 👨‍💻 Desenvolvedor Bubble - No Code.
+- 🔓 Formado na Pato Academy - Do Bug ao Bounty [Hacker Ético - Gabriel Pato]
+- 👨‍💻 Desenvolvedor:
+    - Bubble - No Code.
+    - JavaScript.
 - 📈📊💻 Estagiário em Web Analytics - Rocky.Monks.
 
 ## Status
