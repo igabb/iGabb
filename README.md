@@ -10,7 +10,7 @@
 - 👨‍💻 Desenvolvedor:
     - Bubble - No Code.
     - JavaScript.
-- 📈📊💻 Estagiário em Web Analytics - Rocky.Monks.
+- 📈📊💻 Data Analytics Sr
 
 ## Status
 ![](./profile-3d-contrib/profile-green-animate.svg)
