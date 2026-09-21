@@ -4,12 +4,8 @@
 
 # Gabriel Silva
 - 🦈 Estou em constante desenvolvimento pessoal buscando a melhor versão de mim mesmo.
-- 💻 Atualmente estudando Análise e Desenvolvimento de Sistemas. [UNIP Sorocaba]
-- 💻 Estudando Linguagens de Programação. [Curso em Vídeo - Gustavo Guanabara]
+- 💻 Ensino Superior em Análise e Desenvolvimento de Sistemas. [UNIP Sorocaba]
 - 🔓 Formado na Pato Academy - Do Bug ao Bounty [Hacker Ético - Gabriel Pato]
-- 👨‍💻 Desenvolvedor:
-    - Bubble - No Code.
-    - JavaScript.
 - 📈📊💻 Data Analytics Sr
 
 ## Status
